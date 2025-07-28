@@ -2,15 +2,6 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-![CarHub Hero](./public/front1.png)
-
-![CarHub Hero](./public/front2.png)
-
-![CarHub Hero](./public/front3.png)
-
-![CarHub Hero](./public/front4.png)
-
-![CarHub Hero](./public/front5.png)
 ---
 
 ## 🚀 Tech Stack
@@ -35,3 +26,13 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+![CarHub Hero](./public/front1.png)
+
+![CarHub Hero](./public/front2.png)
+
+![CarHub Hero](./public/front3.png)
+
+![CarHub Hero](./public/front4.png)
+
+![CarHub Hero](./public/front5.png)
