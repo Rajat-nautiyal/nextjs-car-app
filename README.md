@@ -27,6 +27,8 @@ pnpm dev
 # or
 bun dev
 
+---
+
 ![CarHub Hero](./public/front1.png)
 
 ![CarHub Hero](./public/front2.png)
